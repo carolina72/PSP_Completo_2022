@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62af7704-6d23-477c-b406-637c9e68096d": {
+      "ProjectGuid": "62af7704-6d23-477c-b406-637c9e68096d",
+      "DisplayName": "PSP_UD02_TE01_Ejercicio01",
+      "ColorIndex": 0
+    },
+    "e3ebf662-19d8-41da-b49a-ae3ec231700d": {
+      "ProjectGuid": "e3ebf662-19d8-41da-b49a-ae3ec231700d",
+      "DisplayName": "PSP_UD02_TE01_Ejercicio02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

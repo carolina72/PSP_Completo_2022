@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP02_Tarea3_Bloqueos", "PSP02_Tarea3_Bloqueos\PSP02_Tarea3_Bloqueos.csproj", "{EB8A010C-2E6D-4898-95F5-79F9B7CB7A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8A010C-2E6D-4898-95F5-79F9B7CB7A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8A010C-2E6D-4898-95F5-79F9B7CB7A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8A010C-2E6D-4898-95F5-79F9B7CB7A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8A010C-2E6D-4898-95F5-79F9B7CB7A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CF266F6-F94A-49E0-8A70-3463CD7EF4ED}
+	EndGlobalSection
+EndGlobal

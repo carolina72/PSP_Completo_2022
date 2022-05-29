@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP04_POP_RecuperarEmail", "PSP04_POP_RecuperarEmail.csproj", "{D7E446EF-7820-416B-B4D9-A450437FBAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E446EF-7820-416B-B4D9-A450437FBAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E446EF-7820-416B-B4D9-A450437FBAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E446EF-7820-416B-B4D9-A450437FBAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E446EF-7820-416B-B4D9-A450437FBAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B4305A-6ED3-4C93-AD64-8F371A278AD6}
+	EndGlobalSection
+EndGlobal

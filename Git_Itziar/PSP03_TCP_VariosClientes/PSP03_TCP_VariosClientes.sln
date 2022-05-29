@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP_VariosClientes_Cliente", "PSP03_TCP_VariosClientes_Cliente.csproj", "{838DA4FD-EAF2-4E54-B2B5-46C6E3E869A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSP03_TCP_Varios_Clientes_Servidor", "PSP03_TCP_Varios_Clientes_Servidor.csproj", "{D9A680DB-005B-4BF1-A092-CAA2C814A83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838DA4FD-EAF2-4E54-B2B5-46C6E3E869A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838DA4FD-EAF2-4E54-B2B5-46C6E3E869A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838DA4FD-EAF2-4E54-B2B5-46C6E3E869A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838DA4FD-EAF2-4E54-B2B5-46C6E3E869A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A680DB-005B-4BF1-A092-CAA2C814A83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A680DB-005B-4BF1-A092-CAA2C814A83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A680DB-005B-4BF1-A092-CAA2C814A83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A680DB-005B-4BF1-A092-CAA2C814A83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E739086-C918-458A-B3E3-B4EB09DC49A1}
+	EndGlobalSection
+EndGlobal
